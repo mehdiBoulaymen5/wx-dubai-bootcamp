@@ -6,17 +6,21 @@
 - 9:00 - Introduction (15 min)
 - 9:15 - What Do You Hope To Gain From This Experience? (15 min)
 - 9:30 - watsonx.ai level set: Discriminative AI vs Generative AI (30 min)
-- 10:00 - Coffee Breake (10 min)
-- 10:10 - Best practices for prompt engineering (30 min)
+- 10:00 - Best practices for prompt engineering (30 min)
+- 10:20 - Coffee Breake (10 min)
 - 10:30 - Lab #1 and Lab #2 (60 min)
+- 12:00 - 
 - 12:30 - Lunch (60 min)
 - 13:30 - Intro to LangChain + DEMO (Insurance X Company Live DEMO) (20 min) 
 - 13:50 - Lab #3 and #5 (100 min)
 - 15:30 - Introduction to RAG + (Wine X Company Live DEMO) (20 min) 
 - 15:50 - Lab 6 (40 min)
-- 16:30 – watsonx.data | Milvus Vector Database (30 min)
+- 16:30 – Multitask Prompt Tuning Demo (30 min)
 - 17:00 - Optional: Lab 10* (30 min)
     
+### day one changes 
+![img.png](images/day_one.png)
+### ----
 
 ### Day 2:
 - 9:00 - Watsonx Product Roadmap and competitive discussions (60 min)
@@ -29,6 +33,9 @@
 - 13:30 - RAG Challenge (120 min)
 - 15:30 - Presenting the results of each squad (5 min each squad)
 - 16:00 - Feedback and Closing (60 min)
+### Day 2:
+
+![img.png](images/day_two.png)
 
 
 ### Hands-on LABs Level 1
@@ -53,7 +60,7 @@
 | **Time**        | **Topic** |
 |-----------------|-------------------|
 | 20 mins  | [Technical POV on watsonx.ai Platform](watsonxai-platform.md) | 
-| 10 mins  | [IBM's Foundation Models](ibm-foundation-models.md) | 
+| 10 mins  | [IBM's Foundation Models](images/ibm-foundation-models.md) | 
 
 ### IBM Products Integrated With Watsonx.ai
 | **Time**        | **Topic** |
