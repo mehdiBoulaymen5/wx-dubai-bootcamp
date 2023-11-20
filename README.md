@@ -36,11 +36,6 @@
 | 20 mins  | [Technical POV on watsonx.ai Platform](watsonxai-platform.md) | 
 | 10 mins  | [IBM's Foundation Models](images/ibm-foundation-models.md) | 
 
-### IBM Products Integrated With Watsonx.ai
-| **Time**        | **Topic** |
-|-----------------|-------------------|
-|  5 mins  | [Intro to Watson Code Assistant](https://ibm.box.com/s/lx4xbdjtc7p13yf950ou88bl8d5qbj3y) | 
-| 45 mins  | Lab 1* (optional): [Watson Code Assistant and Ansible Lightspeed](./self-guided-labs/products/lab-01-watson-code-assistant) | 
 
 ### Apply Lessons Learned (CHOOSE ONE...OR MORE)
 You've made it to the end.  Almost. You will now apply the new skills that you've learned to the challenges below.  Select one of the challenges below and be creative.  These challenges are specifically open-ended.  Combine your own unique skills to extend the use case solutions provided in these challenges.    
